@@ -1,7 +1,7 @@
 # GAIH Student Repo Example
 ![](img/newlogo.png)
 
-**Course Date:** 08.03.2021 
+**Course Date:** 08.03.2021  
 **Name:** Burak  
 **Surname:** ŞEKERCİOĞLU  
 **Email:** burak@samsuntso.org.tr  
